@@ -1,5 +1,3 @@
-## Hi there 👋, I'm Princy Jaat
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Princy+Jaat;Full+Stack+Developer;AI+Enthusiast;B.Tech+CSE+Student;DSA+Learner;Building+AI+Powered+Projects" />
 </p>
